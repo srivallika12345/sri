@@ -1,0 +1,132 @@
+# Common recent settings file for Wireshark 3.2.3.
+#
+# This file is regenerated each time Wireshark is quit
+# and when changing configuration profile.
+# So be careful, if you want to make manual changes here.
+
+######## Recent capture files (latest last), cannot be altered through command line ########
+
+recent.capture_file: /home/nnrg/227Z5A0518/wireshark.pcapng
+recent.capture_file: /home/nnrg/227Z5A0518/cap.pcapng
+recent.capture_file: /home/nnrg/5E1/wireshark.pcapng
+recent.capture_file: /home/nnrg/cn5E1/wireshark1.pcapng
+
+######## Recent capture filters (latest last), cannot be altered through command line ########
+
+
+######## Recent display filters (latest last), cannot be altered through command line ########
+
+recent.display_filter: arp
+recent.display_filter: arcnet
+recent.display_filter: tcp
+
+# Main window geometry.
+# Decimal numbers.
+gui.geometry_main_x: 122
+gui.geometry_main_y: 77
+gui.geometry_main_width: 960
+gui.geometry_main_height: 768
+
+# Main window maximized.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_main_maximized: FALSE
+
+# Leftalign Action Buttons.
+# TRUE or FALSE (case-insensitive).
+gui.geometry_leftalign_actions: FALSE
+
+# Statusbar left pane size.
+# Decimal number.
+gui.geometry_status_pane: 250
+
+# Statusbar middle pane size.
+# Decimal number.
+gui.geometry_status_pane_right: 250
+
+# Last used Configuration Profile.
+gui.last_used_profile: Default
+
+# WLAN statistics upper pane size.
+# Decimal number.
+gui.geometry_status_wlan_stats_pane: 200
+
+# Warn if running with elevated permissions (e.g. as root).
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_elevated: TRUE
+
+# Warn if npf.sys isn't loaded on Windows >= 6.0.
+# TRUE or FALSE (case-insensitive).
+privs.warn_if_no_npf: TRUE
+
+# Find packet search in.
+# One of: PACKET_LIST, PACKET_DETAILS, PACKET_BYTES
+gui.search_in: PACKET_LIST
+
+# Find packet character set.
+# One of: NARROW_AND_WIDE, NARROW, WIDE
+gui.search_char_set: NARROW_AND_WIDE
+
+# Find packet case sensitive search.
+# TRUE or FALSE (case-insensitive).
+gui.search_case_sensitive: FALSE
+
+# Find packet search type.
+# One of: DISPLAY_FILTER, HEX_VALUE, STRING, REGEX
+gui.search_type: DISPLAY_FILTER
+
+# Geometry and maximized state of ip_hosts window.
+# Decimal integers.
+gui.geom.ip_hosts.x: 426
+gui.geom.ip_hosts.y: 157
+gui.geom.ip_hosts.width: 800
+gui.geom.ip_hosts.height: 459
+# TRUE or FALSE (case-insensitive).
+gui.geom.ip_hosts.maximized: FALSE
+
+# Geometry and maximized state of PacketDialog window.
+# Decimal integers.
+gui.geom.PacketDialog.x: 215
+gui.geom.PacketDialog.y: 89
+gui.geom.PacketDialog.width: 1222
+gui.geom.PacketDialog.height: 668
+# TRUE or FALSE (case-insensitive).
+gui.geom.PacketDialog.maximized: FALSE
+
+# Geometry and maximized state of dests window.
+# Decimal integers.
+gui.geom.dests.x: 426
+gui.geom.dests.y: 157
+gui.geom.dests.width: 800
+gui.geom.dests.height: 459
+# TRUE or FALSE (case-insensitive).
+gui.geom.dests.maximized: FALSE
+
+# Geometry and maximized state of ipv6_hosts window.
+# Decimal integers.
+gui.geom.ipv6_hosts.x: 426
+gui.geom.ipv6_hosts.y: 157
+gui.geom.ipv6_hosts.width: 800
+gui.geom.ipv6_hosts.height: 459
+# TRUE or FALSE (case-insensitive).
+gui.geom.ipv6_hosts.maximized: FALSE
+
+# Geometry and maximized state of ipv6_srcdst window.
+# Decimal integers.
+gui.geom.ipv6_srcdst.x: 426
+gui.geom.ipv6_srcdst.y: 157
+gui.geom.ipv6_srcdst.width: 800
+gui.geom.ipv6_srcdst.height: 459
+# TRUE or FALSE (case-insensitive).
+gui.geom.ipv6_srcdst.maximized: FALSE
+
+# Custom colors.
+# List of custom colors selected in Qt color picker.
+gui.custom_colors: 
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff",
+	"ffffffff", "ffffffff"
